@@ -1,0 +1,174 @@
+# Investment Knowledge Base
+
+## ETFs (Exchange-Traded Funds)
+
+### Vanguard Total Stock Market ETF (VTI)
+- Type: Stock ETF
+- Risk Level: Medium
+- Description: Provides broad exposure to the U.S. stock market, including large-, mid-, and small-cap stocks. Good for long-term growth goals.
+- Expense Ratio: 0.03%
+- Historical Performance: Has averaged around 10% annual returns over long periods.
+
+### Vanguard Total Bond Market ETF (BND)
+- Type: Bond ETF  
+- Risk Level: Low
+- Description: Provides broad exposure to U.S. investment-grade bonds. Good for stability and income.
+- Expense Ratio: 0.03%
+- Historical Performance: Has averaged around 3-4% annual returns over long periods.
+
+### Vanguard Total International Stock ETF (VXUS)
+- Type: International Stock ETF
+- Risk Level: Medium-High
+- Description: Provides exposure to international stocks, including developed and emerging markets. Good for diversification.
+- Expense Ratio: 0.07%
+- Historical Performance: Has averaged around 7-8% annual returns over long periods.
+
+### iShares Core S&P 500 ETF (IVV)
+- Type: Stock ETF
+- Risk Level: Medium
+- Description: Tracks the S&P 500 index, which consists of 500 large U.S. companies. Good for growth with moderate risk.
+- Expense Ratio: 0.03%
+- Historical Performance: Has averaged around 10% annual returns over long periods.
+
+### iShares TIPS Bond ETF (TIP)
+- Type: Bond ETF
+- Risk Level: Low
+- Description: Invests in Treasury Inflation-Protected Securities (TIPS), which provide protection against inflation. Good for preserving purchasing power.
+- Expense Ratio: 0.19%
+- Historical Performance: Has averaged around 2-3% annual returns over long periods.
+
+### Vanguard Growth ETF (VUG)
+- Type: Stock ETF
+- Risk Level: Medium-High
+- Description: Focuses on growth stocks with potential for above-average growth. Good for long-term growth goals with higher risk tolerance.
+- Expense Ratio: 0.04%
+- Historical Performance: Has averaged around 12% annual returns over long periods.
+
+### Vanguard Value ETF (VTV)
+- Type: Stock ETF
+- Risk Level: Medium
+- Description: Focuses on value stocks with lower price-to-earnings ratios. Good for stable growth and income.
+- Expense Ratio: 0.04%
+- Historical Performance: Has averaged around 9% annual returns over long periods.
+
+### SPDR Gold Shares (GLD)
+- Type: Commodity ETF
+- Risk Level: Medium
+- Description: Provides exposure to gold prices. Good for diversification and potential hedge against inflation.
+- Expense Ratio: 0.40%
+- Historical Performance: Has averaged around 8% annual returns over the past decade.
+
+## Robo-Advisors
+
+### Betterment
+- Type: Robo-Advisor
+- Risk Level: Adjustable (Low to High)
+- Description: Offers automated, goals-based investing with automatic rebalancing and tax-loss harvesting. Good for hands-off investors.
+- Fees: 0.25% annually for basic service
+- Minimum Investment: $0
+- Features: Goal-based portfolios, automatic rebalancing, tax-loss harvesting, socially responsible investing options
+
+### Wealthfront
+- Type: Robo-Advisor
+- Risk Level: Adjustable (Low to High)
+- Description: Offers automated investing with tax-efficient strategies and risk parity portfolios. Good for tax-efficient investing.
+- Fees: 0.25% annually
+- Minimum Investment: $500
+- Features: Tax-loss harvesting, direct indexing for accounts over $100,000, risk parity portfolios, educational savings
+
+### Vanguard Digital Advisor
+- Type: Robo-Advisor
+- Risk Level: Adjustable (Low to High)
+- Description: Vanguard's automated investment service using low-cost Vanguard ETFs. Good for low-cost, long-term investing.
+- Fees: 0.20% annually
+- Minimum Investment: $3,000
+- Features: Personalized retirement planning, automatic rebalancing, low costs, backed by Vanguard's investment philosophy
+
+### Schwab Intelligent Portfolios
+- Type: Robo-Advisor
+- Risk Level: Adjustable (Low to High)
+- Description: Charles Schwab's automated investing service with no advisory fees. Good for fee-sensitive investors.
+- Fees: No advisory fees (but earns revenue from cash allocation)
+- Minimum Investment: $5,000
+- Features: Automatic rebalancing, tax-loss harvesting for accounts over $50,000, human advisor access for Premium version
+
+### Acorns
+- Type: Micro-Investing Robo-Advisor
+- Risk Level: Adjustable (Low to High)
+- Description: Invests spare change from transactions into diversified portfolios. Good for beginner investors.
+- Fees: $1-5 per month depending on plan
+- Minimum Investment: $0
+- Features: Round-up investments, cash back rewards, retirement accounts, educational resources
+
+## Investment Strategies by Goal Type
+
+### Retirement
+- Long-term goal (typically 10+ years)
+- Higher allocation to equities for younger investors, gradually shifting to more bonds as retirement approaches
+- Recommended starting allocation for someone with 20+ years until retirement: 80-90% stocks, 10-20% bonds
+- Recommended allocation within 5 years of retirement: 50-60% stocks, 40-50% bonds
+- Consider inflation protection through TIPS or other inflation-hedged investments
+
+### Education (College Savings)
+- Medium to long-term goal (typically 5-18 years)
+- Higher allocation to equities for longer time horizons, shifting to more conservative investments as college age approaches
+- Recommended allocation with 15+ years until college: 70-80% stocks, 20-30% bonds
+- Recommended allocation within 5 years of college: 30-40% stocks, 60-70% bonds or cash equivalents
+- Consider 529 plans or education-specific investment accounts for tax advantages
+
+### House Down Payment
+- Short to medium-term goal (typically 1-5 years)
+- Much more conservative allocation due to shorter time horizon
+- Recommended allocation with 1-2 years until purchase: 0-10% stocks, 90-100% bonds or cash equivalents
+- Recommended allocation with 3-5 years until purchase: 20-30% stocks, 70-80% bonds
+- Focus on capital preservation and liquidity
+
+### General Wealth Building
+- Long-term goal (typically 10+ years)
+- Flexible allocation based on risk tolerance
+- Recommended allocation for low risk: 40-50% stocks, 50-60% bonds
+- Recommended allocation for medium risk: 60-70% stocks, 30-40% bonds
+- Recommended allocation for high risk: 80-90% stocks, 10-20% bonds
+- Focus on diversification across asset classes and geographies
+
+## Market Insights (Updated Q1 2024)
+
+### Current Investment Environment
+- Interest rates remain elevated compared to historical averages but have stabilized
+- Inflation has moderated but remains above central bank targets in many economies
+- Corporate earnings growth has been resilient despite economic uncertainties
+- Market valuations are above historical averages in many developed markets
+
+### Asset Class Outlook
+- Equities: Potential for moderate returns with increased volatility
+- Bonds: Improved yield environment creates better income potential
+- Cash and Cash Equivalents: Higher short-term rates offer competitive yields for short-term goals
+- Alternative Investments: Can provide diversification benefits in uncertain environments
+
+### Risk Considerations
+- Economic slowdown potential in major economies
+- Geopolitical tensions affecting global trade and supply chains
+- Elevated government debt levels in many developed economies
+- Technological disruption creating both opportunities and challenges across sectors
+
+## Risk Management Principles
+
+### Diversification
+- Spread investments across different asset classes (stocks, bonds, etc.)
+- Within asset classes, diversify across sectors, geographies, and investment styles
+- Consider correlation between investments to enhance diversification benefits
+
+### Time Horizon Alignment
+- Longer time horizons (10+ years) can typically accommodate higher risk allocations
+- Medium time horizons (3-10 years) should balance growth and capital preservation
+- Shorter time horizons (0-3 years) should prioritize capital preservation and liquidity
+
+### Rebalancing
+- Regularly review and adjust portfolio to maintain target allocations
+- Systematic rebalancing can help manage risk and potentially enhance returns
+- Consider tax implications and transaction costs when rebalancing
+
+### Investment Costs
+- Focus on low-cost investment options to maximize net returns
+- Be aware of all fees, including expense ratios, advisory fees, and transaction costs
+- Even small differences in fees can significantly impact long-term returns
