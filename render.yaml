@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: investment-api
+    env: python
+    plan: free
+    runtime: python
+    buildCommand: ""
+    startCommand: uvicorn main_api:app --host 0.0.0.0 --port 8000
+    envVars:
+      - key: PORT
+        value: 8000
+    region: oregon
+    autoDeploy: true
