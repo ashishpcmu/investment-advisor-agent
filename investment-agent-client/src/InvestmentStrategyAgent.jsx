@@ -21,7 +21,9 @@ const InvestmentStrategyAgent = () => {
   const latestResponseRef = useRef(null);
   
   // API URL (change in production)
-  const API_URL = 'http://localhost:8000';
+  //const API_URL = 'http://localhost:8000';
+  const API_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:8000';
+
   
   // Conversion functions
   const convertRiskToleranceToText = (value) => {
