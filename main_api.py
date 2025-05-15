@@ -5,6 +5,8 @@ to provide a RESTful API for the React frontend.
 """
 
 import os
+os.environ["AUTOGEN_USE_DOCKER"] = "False"
+
 import json
 import logging
 import asyncio
