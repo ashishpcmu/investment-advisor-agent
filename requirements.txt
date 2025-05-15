@@ -8,3 +8,5 @@ python-dotenv>=1.0.0
 langchain-community
 langchain-openai
 autogen
+fastapi
+uvicorn
