@@ -25,11 +25,11 @@ This application implements a multi-agent investment advisor system with the fol
 6. **Presentation Agent** - Formats strategies for user presentation
 
 ## Demo Screenshots
-<img src="data/Demo1.png" width="500"/>
-<img src="data/Demo2.png" width="500"/>
-<img src="data/Demo3.png" width="500"/>
-<img src="data/Demo4.png" width="500"/>
-<img src="data/Demo5.png" width="500"/>
+<img src="data/Demo1.png" width="1000"/>
+<img src="data/Demo2.png" width="1000"/>
+<img src="data/Demo3.png" width="1000"/>
+<img src="data/Demo4.png" width="1000"/>
+<img src="data/Demo5.png" width="1000"/>
 
 ## Prerequisites
 
