@@ -24,6 +24,13 @@ This application implements a multi-agent investment advisor system with the fol
 5. **Voting Coordinator Agent** - Finalizes strategy based on specialist recommendations
 6. **Presentation Agent** - Formats strategies for user presentation
 
+## Demo Screenshots
+<img src="data/Demo1.png" width="500"/>
+<img src="data/Demo2.png" width="500"/>
+<img src="data/Demo3.png" width="500"/>
+<img src="data/Demo4.png" width="500"/>
+<img src="data/Demo5.png" width="500"/>
+
 ## Prerequisites
 
 - Python 3.8+
